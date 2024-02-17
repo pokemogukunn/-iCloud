@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: incognito
+    name: むらかみあおい
     env: node
     region: Oregon
     plan: free
