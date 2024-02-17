@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: むらかみあおい
+    name: murakami-aoi
     env: node
     region: Oregon
     plan: free
