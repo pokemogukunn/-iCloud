@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: murakami-aoi
+    name: m-u-r-a-k-a-m-i-a-o-i
     env: node
     region: Oregon
     plan: free
